@@ -86,7 +86,7 @@ Obfusque os scripts: Use ferramentas de compactação ou codificação para difi
 ====================================================================================================================================================================================
 
 
-Conceito de Reverse Shell
+# Conceito de Reverse Shell em python
 
 O Reverse Shell é uma técnica usada para obter acesso remoto a uma máquina alvo. Em um cenário normal de Shell (conexão tradicional), um cliente se conecta a um servidor. No caso de um Reverse Shell, o processo é invertido: o cliente (a máquina alvo) faz a conexão para o servidor (o atacante ou explorador), permitindo que o atacante execute comandos na máquina alvo.
 Fluxo básico de um Reverse Shell:
